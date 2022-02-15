@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+        <title>Bienvenido a la mejor información de tenis y fútbol</title>
+        <link>https://www.marca.com</link>
+        <description>Las mejores noticias para los mejores lectores</description>
+        <category>/Noticias/deportes/fútbol</category>
+        <language>es-es</language>
+        <lastBuildDate>Tue, 15 Feb 2022 16:00:00 +0200</lastBuildDate>
+        <skipDays>
+            <day>Saturday</day>
+            <day>Sunday</day>
+        </skipDays>
+        <skipHours>
+            <hour>0</hour>
+            <hour>1</hour>
+            <hour>2</hour>
+            <hour>3</hour>
+            <hour>4</hour>
+            <hour>5</hour>
+        </skipHours>
+        <webMaster>a21gumeen@iesgrancapitan.org (Enrique Guzmán)</webMaster>
+        <image>
+            <url>https://cdn.pixabay.com/photo/2016/11/29/07/06/bleachers-1867992__340.jpg</url>
+            <title>Campo de fútbol</title>
+            <link>https://cdn.pixabay.com</link>
+        </image>
+    <item>
+        <link>https://www.marca.com/</link>
+        <title>Fichajes Mercado de Invierno</title>
+        <description>El FcBarcelona realiza buenos fichajes en este mercado de invierno</description>
+        <author>a21gumeen@iesgrancapitan.org (Enrique Guzmán)</author>
+        <enclosure url="https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700__340.jpg"
+                length="51398"
+                type="image/jpg" />
+        <pubDate>Tue, 15 Feb 2022 16:00:00 +0200</pubDate>
+    </item>
+     <item>
+        <link>https://www.marca.com/</link>
+        <title>Fichajes Mercado de Invierno</title>
+        <description>El Sevilla F.C ficha a una estrella de la Premier como es Martial</description>
+        <author>a21gumeen@iesgrancapitan.org (Enrique Guzmán)</author>
+        <enclosure url="https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700__340.jpg"
+                length="51398"
+                type="image/jpg" />
+        <pubDate>Tue, 15 Feb 2022 16:00:00 +0200</pubDate>
+    </item>
+     <item>
+        <link>https://www.marca.com/</link>
+        <title>Fichajes Mercado de Invierno</title>
+        <description>El FcBarcelona realiza buenos fichajes en este mercado de invierno</description>
+        <author>a21gumeen@iesgrancapitan.org (Enrique Guzmán)</author>
+        <enclosure url="https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700__340.jpg"
+                length="51398"
+                type="image/jpg" />
+        <pubDate>Tue, 15 Feb 2022 16:00:00 +0200</pubDate>
+    </item>
+     <item>
+        <link>https://www.marca.com/</link>
+        <title>Fichajes Mercado de Invierno</title>
+        <description>El FcBarcelona realiza buenos fichajes en este mercado de invierno</description>
+        <author>a21gumeen@iesgrancapitan.org (Enrique Guzmán)</author>
+        <enclosure url="https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700__340.jpg"
+                length="51398"
+                type="image/jpg" />
+        <pubDate>Tue, 15 Feb 2022 16:00:00 +0200</pubDate>
+    </item>
+</channel>
+</rss>
