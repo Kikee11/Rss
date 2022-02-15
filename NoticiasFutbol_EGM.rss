@@ -1,0 +1,51 @@
+<? xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+        <title>Bienvenido a la mejor información de tenis y fútbol</title>
+        <link></link>
+        <description>Las mejores noticias para los mejores lectores</description>
+        <category>/Noticias/deportes/fútbol</category>
+        <languaje>es-es</languaje>
+        <lastBuildDate>Mi, 9 Feb 2002</lastBuildDate>
+        <skipDays>Sábados y Domingos</skipDays>
+        <skipHours>00:00 a 5:00 horas</skipHours>
+        <webMaster>a21gumeen@iesgrancapitan.org</webMaster>
+        <image>
+            <url>https://cdn.pixabay.com/photo/2016/11/29/07/06/bleachers-1867992__340.jpg</url>
+            <title>Campo de fútbol</title>
+            <link>https://cdn.pixabay.com</link>
+        </image>
+    <item>
+        <title>Fichajes Mercado de Invierno</title>
+        <link>https://www.marca.com/</link>
+        <description>El FcBarcelona realiza buenos fichajes en este mercado de invierno</description>
+        <author>Enrique Guzmán Mesa</author>
+        <enclosure url="https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700__340.jpg"
+                length="12345"
+                type="jpg" />
+        <pubDate>Mi, 9 Feb 2002</pubDate>
+        <source></source>
+    </item>
+    <item>
+        <title>Fichajes Mercado de Invierno</title>
+        <link>https://www.marca.com/</link>
+        <description>El Sevilla F.C ficha auna estrella de la premier League</description>
+        <author></author>
+        <enclosure url="https://cdn.pixabay.com/photo/2014/10/14/20/24/soccer-488700__340.jpg"
+                length="12345"
+                type="jpg" />
+        <pubDate>Ma, 15 Feb 2002</pubDate>
+        <source></source>
+    </item>
+    <item>
+        <title>Open de Australia</title>
+        <link>https://www.marca.com</link>
+        <description>Rafa Nadal se hace con su 21 Grand Slam</description>
+        <author>Enrique Guzmán Mesa</author>
+        <enclosure url="https://cdn.pixabay.com/photo/2016/12/29/10/45/tennis-1938305__340.jpg"
+        length="12345"
+        type="jpg" />
+        <pubDate>Ma, 15 Feb 2002</pubDate>
+        <source></source>
+    </item>
+</channel>
